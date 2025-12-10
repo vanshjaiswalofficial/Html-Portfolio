@@ -5,7 +5,7 @@ I created this project to learn how to structure web pages and design a clean pe
 
 It includes sections like **About Me**, **Projects**, **Contact**, and more — all made purely with HTML to focus on the foundation of web development.
 
-🔗 **Visit My Portfolio:** [vanshcore.netlify.app](https://vanshjaiswal.netlify.app)
+🔗 **Visit My Portfolio:** [vanshjaiswal.netlify.app](https://vanshjaiswal.netlify.app)
 
 ---
 
